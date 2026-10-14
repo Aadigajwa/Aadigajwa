@@ -1,5 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Satwik%20Gajwa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:a371f7&text=Satwik%20Gajwa&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=60&section=header"
+    width="100%"
+    alt="Satwik Gajwa — Web Developer"
+  />
+</p>
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
